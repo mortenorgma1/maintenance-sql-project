@@ -82,3 +82,15 @@ one-to-many relationships and inconsistent categorical values.
 ---
 
 ## Project Structure
+maintenance-sql-project/
+├── schema.sql
+├── sample_data.sql
+├── analysis.sql
+└── insights.md
+
+---
+
+## Notes
+This project focuses on SQL-based analysis and decision-making rather than
+visualization or external tooling. All insights are derived directly from SQL
+queries, reflecting common analyst workflows in production environments.
